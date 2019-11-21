@@ -11,7 +11,7 @@ https://avro.apache.org/docs/current/
  
 Foi usada a versao 1.9.1 do Apache Avro e Tambem a avro tools para gera o Arquivos .java pelo SCHEMA.
 
-# E como gostei do que foi explicado no video no YouTube, resolvi aprender mais:
+E como gostei do que foi explicado no video no YouTube, resolvi aprender mais:
 https://www.youtube.com/watch?v=1FkNaqBIjOA&t=1370s
 
 E a melhor forma e entender como foi feito, buscar a documentação, e tentar recriar ou criar ações,
